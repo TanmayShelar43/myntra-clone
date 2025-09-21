@@ -22,12 +22,4 @@ This project demonstrates how an e-commerce website works by allowing users to b
 
 ---
 
-## 📂 Project Structure
-Myntra-Clone/
-│── index.html # Homepage
-│── style.css # Styling for homepage
-│── script.js # JavaScript for homepage functionality
-│── bag.html # Shopping Bag/Cart page
-│── bag.css # Styling for bag/cart page
-│── bag.js # JavaScript functionality for bag/cart page
-│── /images # Product images
+
