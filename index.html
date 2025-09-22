@@ -10,47 +10,50 @@
 </head>
 <body>
   <header>
-    <div class="logo_container">
-      <a href="#"><img class="myntra_home" src="images/myntra_logo.webp" alt=""></a>
-    </div>
-    <nav><div class="navbar">
+  <!-- Hamburger -->
+  <div class="hamburger" onclick="toggleMenu()">☰</div>
+
+  <!-- Logo -->
+  <div class="logo_container">
+    <a href="#"><img class="myntra_home" src="images/myntra_logo.webp" alt=""></a>
+  </div>
+
+  <!-- Navbar -->
+  <nav>
+    <div class="navbar">
       <a href="#">Men</a>
       <a href="#">Women</a>
-      <a href="#">kids</a>
+      <a href="#">Kids</a>
       <a href="#">Home & Living</a>
       <a href="#">Beauty</a>
       <a href="#">Studio <sup>new</sup></a>
-    </div></nav>
-    <div class="search_bar">
-      <span id="search_icon" class="material-symbols-outlined">
-        search
-        </span>
-     <input class="search" placeholder="search for products,brands and more" title="search">
     </div>
-    <div class="action_bar">
-      <div class="action_conatianer">
-        <span class="material-symbols-outlined action_icon">
-          person
-          </span>
-          <span class="action_name">Profile</span>
-      </div>
-      <div class="action_conatianer">
-        <span class="material-symbols-outlined action_icon1">
-          favorite
-          </span>
-          <span class="action_name2">Wishlist</span>
-      </div>
-      <a class="action_conatianer" href="bag.html">
-        
-        <span class="material-symbols-outlined action_icon2">
-          shopping_bag
-          </span>
-          <span class="action_name1">Bag</span>
-          <div class="bag-item-count"></div>
-        </a>
-      
+  </nav>
+
+  <!-- Search (desktop only) -->
+  <div class="search_bar">
+    <span id="search_icon" class="material-symbols-outlined">search</span>
+    <input class="search" placeholder="search for products,brands and more" title="search">
+  </div>
+
+  <!-- Action bar -->
+  <div class="action_bar">
+    <div class="action_conatianer">
+      <span class="material-symbols-outlined action_icon">person</span>
+      <span class="action_name">Profile</span>
     </div>
-  </header>
+    <div class="action_conatianer">
+      <span class="material-symbols-outlined action_icon1">favorite</span>
+      <span class="action_name2">Wishlist</span>
+    </div>
+    <a class="action_conatianer" href="bag.html">
+      <span class="material-symbols-outlined action_icon2">shopping_bag</span>
+      <span class="action_name1">Bag</span>
+      <div class="bag-item-count"></div>
+    </a>
+  </div>
+</header>
+
     
 
   <main>
