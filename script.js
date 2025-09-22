@@ -1,3 +1,6 @@
+function toggleMenu() {
+  document.querySelector('.navbar').classList.toggle('active');
+}
 let itemsContainerElement=document.querySelector('.items-container');
 const items = [
   {
