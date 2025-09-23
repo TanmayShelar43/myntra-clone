@@ -1,25 +1,23 @@
-# 🛍️ Myntra Clone (HTML, CSS, JavaScript)
+🛍️ SnapWear – E-Commerce Project (HTML, CSS, JavaScript)
 
-A simple **Myntra clone** built using **HTML, CSS, and JavaScript**.  
-This project demonstrates how an e-commerce website works by allowing users to browse products, add them to a shopping bag, and view the total bill.
+A responsive e-commerce web application inspired by Myntra. SnapWear allows users to browse products, add them to a shopping bag, and view the total bill dynamically.
 
----
+🚀 Features
 
-## 🚀 Features
-- 📌 **Responsive UI** inspired by Myntra.  
-- 🛒 **Add to Bag** functionality – users can add products to the shopping bag.  
-- 📦 **Bag Page** – displays all added products with details.  
-- 💰 **Billing System** – dynamically calculates the total price of items in the bag.  
-- ❌ **Remove from Bag** .  
+Responsive Design: Mobile-friendly layout inspired by popular e-commerce platforms.
 
+Add to Bag: Users can add products to their shopping bag.
 
----
+Bag Page: View all added products with details and pricing.
 
-## 🖥️ Tech Stack
-- **HTML5** – Structure of the website.  
-- **CSS3** – Styling, layout, and responsiveness.  
-- **JavaScript (ES6)** – Functionality like adding items to bag and billing.
+Billing System: Dynamically calculates the total price of items in the bag.
 
----
+Remove from Bag: Easily remove unwanted items from the shopping bag.
 
+🖥️ Tech Stack
 
+HTML5: Website structure.
+
+CSS3: Styling, layout, and responsive design.
+
+JavaScript (ES6): Interactive functionality like adding/removing items and updating the bill.
