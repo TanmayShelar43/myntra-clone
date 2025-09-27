@@ -18,6 +18,6 @@ A responsive e-commerce web application inspired by Myntra. SnapWear allows user
 
 ## 🎬 Demo
 
-![SnapWear Demo](./demo.gif)
+![SnapWear Demo](./Demo.gif)
 
-[📹 Full Video Demo](./demo.mp4)
+[📹 Full Video Demo](./Demo.mp4)
