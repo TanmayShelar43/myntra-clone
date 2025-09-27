@@ -16,5 +16,8 @@ A responsive e-commerce web application inspired by Myntra. SnapWear allows user
 - **CSS3:** Styling, layout, and responsive design.  
 - **JavaScript (ES6):** Interactive functionality like adding/removing items and updating the bill.
 
-- ## 🎬 Demo
-[📹 Watch the Demo](./Demo.mp4)
+## 🎬 Demo
+
+![SnapWear Demo](./demo.gif)
+
+[📹 Full Video Demo](./demo.mp4)
